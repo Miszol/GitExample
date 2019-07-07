@@ -4,10 +4,8 @@ import java.util.Scanner;
 
 public class ImageFromLoop {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("give me a number:");
-        int size = sc.nextInt();
-//      int size = 15;
+
+      int size = 15;
 
 //      ***
 //       **
@@ -70,8 +68,10 @@ public class ImageFromLoop {
             for (int o = 0; o < 3; o++) {
                 System.out.print("|");
             }
-        }
+
+            System.out.println("plik po mojej ciężkiej pracy");}
     }
+
 }
 
 
