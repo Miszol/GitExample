@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ImageFromLoop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("give me the money:");
+        System.out.println("give me the number:");
         int size = sc.nextInt();
 //      int size = 15;
 
