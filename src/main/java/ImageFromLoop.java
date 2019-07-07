@@ -9,6 +9,8 @@ public class ImageFromLoop {
         int size = sc.nextInt();
 //      int size = 15;
 
+
+
 //      ***
 //       **
 //        *
